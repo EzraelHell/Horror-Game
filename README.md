@@ -186,7 +186,9 @@
 
 ## 🎬 پیش‌نمایش
 
-> 🎥 ویدیوی این هفته: [لینک ویدیو]
+> 🎥 ویدیوی این هفته 1 : [[لینک ویدیو](https://drive.google.com/file/d/1dfWMWOUHeNtDH_lKA4A5aNfaKdFGqdx6/view?usp=drive_link)]
+> 🎥 ویدیوی این هفته 2 : [[لینک ویدیو](https://drive.google.com/file/d/1ZsitB6maiMQuD9XbVLcc6fNV5HYycVjs/view?usp=drive_link)]
+
 
 *(اسکرین‌شات‌ها و GIFها — مخصوصاً نوار حبس نفس و لحظه بوق رادار)*
 
