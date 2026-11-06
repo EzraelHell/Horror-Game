@@ -165,17 +165,6 @@
 
 **API عمومی:** `SetAlarm(bool on)` و `IsAlarming`.
 
----
-
-## 🚀 راه‌اندازی (Setup)
-
-1. پروژه را با **Unity Hub** باز کنید.
-2. پکیج **UHFPS** را نصب کنید.
-3. صحنه اصلی را در **Build Settings** اضافه کنید (برای `reloadScene`).
-4. **NightManager**: یک GameObject خالی + اتصال `radioGate` + اتصال دکمه گزارش.
-5. **NightRadioDialogue**: روی GameObject بیسیم + پر کردن آرایه `Night Dialogues`.
-6. **Night1ScareEvent**: مدل مرد + Empty `ScareTarget` + پر کردن فیلدها.
-7. **Night2BreathEvent**: GameObject خالی `Night2Event` + اتصال `CCTV` + اتصال مدل هیولا.
    - کلید پیش‌فرض: **F**
    - مدت حبس نفس: **۶ ثانیه**
    - مهلت نشستن: **۱۵ ثانیه**
