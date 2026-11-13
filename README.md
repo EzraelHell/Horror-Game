@@ -182,8 +182,6 @@
 - `Debug: Generator State` — وضعیت جنراتور و شمارش
 - `Debug: Force Unlock` — آزادسازی دستی
 
-8. **Night3RadioCheckLock**:
-   - GameObject خالی `Night3Event` + اسکریپت را اضافه کنید.
    - اتصال `CCTV` (یا خودکار پیدا می‌شود).
    - **تعامل بیسیم** (CustomInteractEvent → OnStart) → `Night3RadioCheckLock.NotifyRadioChecked`.
    - پر کردن `Trigger Sound` و `Radio Message Clip` (یا `Message Duration`).
@@ -212,6 +210,9 @@
 >
 > 🎥 **ویدیوی هفته ۲** — رویداد شب ۱ (مرد ترسناک) و شب ۲ (حبس نفس):  
 > [تماشا در Google Drive](https://drive.google.com/file/d/1ZsitB6maiMQuD9XbVLcc6fNV5HYycVjs/view?usp=drive_link)
+>
+> 🎥 **ویدیوی هفته ۳** — رویداد شب ۳ (قفل دوربین + ددلاین جنراتور):  
+> [تماشا در Google Drive](https://drive.google.com/file/d/1ydWwQX3HvSm-AfRQwtHCm8nM9OdJMor1/view?usp=drive_link)
 
 ---
 
@@ -244,7 +245,6 @@
 - **آزادسازی منابع در `OnDisable` / `OnDestroy`**
 - **اورلی و منوهای دیباگ** برای عیب‌یابی سریع
 
-> 💡 **پیشنهاد refactor آینده:** این الگو می‌تواند به یک `abstract class NightEventBase` تبدیل شود تا کد تکراری بین رویدادها کاهش یابد.
+## 📄 لایسنس
 
----
 این پروژه برای اهداف آموزشی/دانشگاهی ساخته شده است.
